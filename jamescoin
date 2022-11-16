@@ -1,0 +1,7 @@
+
+//Jamescoin
+
+var.jamescoin;
+
+jamescoin== jamescoin+1
+console.log(jamescoin)
